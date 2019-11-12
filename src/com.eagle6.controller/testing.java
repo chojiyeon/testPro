@@ -3,6 +3,6 @@ package com.eagle6.controller;
 public class testing {
     public static void main(String[] args) {
         System.out.println("Hello world");
-        System.out.println("ì œê°€ ìˆ˜ì •í–ˆìŠµë‹ˆë‹¤.");
+        System.out.println("Á¶Áö¿¬ branch");
     }
 }
